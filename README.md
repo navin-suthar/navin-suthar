@@ -8,4 +8,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github" width="22px" src="https://www.flaticon.com/free-icon/github_2111425?term=github&page=1&position=1&page=1&position=1&related_id=2111425&origin=search">][website]   
+[<img align="left" alt="github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][website]   
