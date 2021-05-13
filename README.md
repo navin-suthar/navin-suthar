@@ -13,7 +13,7 @@
 <br />  
 
 ### Languages and Tools:
-[<img align="left" alt="github" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][webdevplaylist]
+<img align="left" alt="github" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="ChartJS" width="22px" src="https://www.chartjs.org/media/logo-title.svg">
 <img align="left" alt="CSS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img align="left" alt="D3" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg">
