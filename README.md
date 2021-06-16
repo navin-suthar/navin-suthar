@@ -20,3 +20,9 @@
 <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="Postman" width="22px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
