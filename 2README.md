@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Navin Solanki](https://abhishknads.me/), a passionate self-taught Front end web developer and a freelance software engineer from India. My passion for Creating best UI  component other  web developer. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Navin Solanki](https://navin-suthar.me/), a passionate self-taught Front end web developer and a freelance software engineer from India. My passion for Creating best UI  component other  web developer. I take great care in the experience, architecture, and code quality of the things I build.
 
  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
