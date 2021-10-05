@@ -1,6 +1,6 @@
-### Hi there, I Navin - solanki 
+# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-## I'm a Front-end web developer!
+### Hi there, I Navin - solanki
 - 📚 I'm Currently learning everything 🤣
 - 🤝 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals : Contribute more to Open Source projects
