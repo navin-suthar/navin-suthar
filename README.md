@@ -26,3 +26,8 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=navin-suthar&show_icons=true&theme=gotham" alt="navin-suthar" />
+
