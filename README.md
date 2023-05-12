@@ -15,7 +15,7 @@ I enjoy sharing my knowledge with others through writing. Here are some articles
 - [(Drop Shadow)](https://www.webdeveloperblogs.com/2023/04/drop-shadow.html) - Brief description of article
 
 ## 📬 Contact Me
-If you'd like to get in touch, You can also connect with me on ([LinkedIn](https://www.linkedin.com/in/navin-solanki-137688207/)) or ([Twitter](https://twitter.com/NavinSo92429049)).
+If you'd like to get in touch, You can also connect with me on  ([Twitter](https://twitter.com/NavinSo92429049)).
 
 ## 📈 My GitHub Stats
 
