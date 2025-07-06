@@ -113,7 +113,7 @@ const generateAIComponent = async (prompt) => {
 ## 🐦 Latest Tweets
 <p align="center">
   <a href="https://twitter.com/NavinSo92429049">
-    <img src="https://gtce.itsvg.in/api?username=NavinSo92429049" alt="Twitter Card" width="100%"/>
+    🐦 Twitter Followers: <img src="https://img.shields.io/twitter/follow/NavinSo92429049?label=&style=flat" alt="Twitter Followers">
   </a>
 </p>
 
@@ -125,7 +125,7 @@ I'm always interested in working on innovative projects that combine frontend ex
 Feel free to reach out if you'd like to collaborate!
 
 <a href="https://navin-solanki.pages.dev/">
-  <img src="https://visitcount.itsvg.in/api?id=navin-suthar&icon=0&color=0" alt="Profile Views"/>
+    👀 Profile Views: <img src="https://profile-counter.glitch.me/navin-suthar/count.svg" alt="Profile Views">
 </a>
 
 </div>
